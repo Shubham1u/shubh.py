@@ -1,15 +1,15 @@
-a=int(input("enter first number:"))
-b=int(input("enter second number:"))
-opr=input("enter operator: (+,-,*,/,%)")
-if opr=="+":
-    print("addition is", a+b)
-elif opr=="-":
-    print("subtraction is", a-b)
-elif opr=="*":
-    print("multiplication is", a*b)
-elif opr=="/":
-    print("division is", a/b)
-elif opr=="%":
-    print("modulus is", a%b)
-else:
-    print("invalid operator")
+a=int(input("enter a first number: "))
+operator=input("enter an operator (+, -, *, /): ")
+b=int(input("enter a second number: "))
+operators=input("enter an operator (+, -, *, /): ")
+c=int(input("enter a third number: "))
+if operator=='+':
+    print("result:",a+b+c)
+elif operator=='-':
+    print("result:",a-b-C)
+elif operator=='*':
+    print("result:",a*b*C)
+elif operator=='/':
+    print("result:",a/b/C)
+else:   
+        print("Error: Division by zero is not allowed.")
