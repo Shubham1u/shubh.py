@@ -1,0 +1,11 @@
+course = input("Enter course: ")
+
+match course:
+    case "CA":
+        print("You selected BCA/MCA")
+
+    case "LAW":
+        print("You selected LLB/LLM")
+
+    case _:
+        print("Invalid course")
