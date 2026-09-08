@@ -8,6 +8,6 @@ elif operator=='-':
 elif operator=='*':
     print("result:",a*b)
 elif operator=='/':
-    print("result:",a/b)
+    print("result:",a/b)   
 else:   
     print("Error: Division by zero is not allowed.")

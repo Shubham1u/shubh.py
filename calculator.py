@@ -1,3 +1,4 @@
+import math
 a=eval(input("enter a first number: "))
 operator=input("enter an operator (+, -, *, /): ")
 b=eval(input("enter a second number: "))
@@ -10,4 +11,4 @@ elif operator=='*':
 elif operator=='/':
     print("result:",a/b)
 else:   
-        print("Error: Division by zero is not allowed.")
+    print("Error: Division by zero is not allowed.")
