@@ -1,4 +1,7 @@
-a="apple"
+print("------ex1------")
+
+
+# a="apple"
 # print("i want to eat ", a)
 # name="shubham"
 # print(name[0])
@@ -11,7 +14,7 @@ a="apple"
 
 
  
-# print("------ex2------")
+print("------ex2------")
 
 # age=int(input("enter your age:"))
 # if age>=18: 
@@ -19,7 +22,7 @@ a="apple"
 # else:
 #     print("You cannot drive")
 
-# print("------ex3------")
+print("------ex3------")
 
 # marks=int(input("enter of marks:"))
 # if marks>=80:
@@ -34,7 +37,7 @@ a="apple"
 
 
 
-# print("------ex4------")
+print("------ex4------")
 
 # marks=int(input("enter of marks:"))
 # if marks>=300 and marks<=500:
@@ -49,7 +52,7 @@ a="apple"
 
 
 
-# print("------ex5------")
+print("------ex5------")
 
 # marks=int(input("enter of marks:"))
 # if marks>=300 and marks<=500:
@@ -104,7 +107,7 @@ a="apple"
 
 
 
-# print("------ex8------")
+print("------ex8------")
 
 # fruit=["banana","apple", "mango"]
 # for index in range (len(fruit)):
@@ -120,7 +123,7 @@ a="apple"
 
 
 
-# print("------ex9------")
+print("------ex9------")
 
 # i=2
 # while(i<20):
@@ -144,9 +147,9 @@ a="apple"
 # else:
 #     print("both are equal") 
 
-        
 
-# print("------ex10------")
+
+print("------ex10------")
 
 # for i in range(5, 0, -1):      #for 
 #     print(i)
