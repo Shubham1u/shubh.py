@@ -23,8 +23,8 @@
 # for i in l:
 #     print(i)
 
-l=[]
-for i in range(0,8):
-    x=int(input("enter a number: "))
-    l.append(x)
-print(l)
+# l=[]
+# for i in range(0,8):
+#     x=int(input("enter a number: "))
+#     l.append(x)
+# print(l)
