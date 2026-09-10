@@ -7,15 +7,15 @@ total_marks=Hindi+English+Maths+Science+Sst
 print("Total marks obtained:", total_marks)
 average_marks=total_marks/5
 print("Average marks:", average_marks)
-if 90>=80:
+if average_marks >=80:
     print("excellent")
-elif  80>=70:
+elif average_marks >=70:
     print("good")
-elif  70>=60:
+elif average_marks >=60:
     print("first")
-elif 60>=50:
+elif average_marks >=50:
     print("second")
-elif 50>=40:
+elif average_marks >=40:
     print("third")
 elif  40>=35:
     print("pass")
