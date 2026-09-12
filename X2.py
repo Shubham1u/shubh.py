@@ -67,7 +67,7 @@ print("------ex5------")
 
 
 
-# print("------ex6------")
+print("------ex6------")
 
 
 # c=float(input("Temperature in Celsius: {c}"))
@@ -77,7 +77,7 @@ print("------ex5------")
 # k=(c+273.15)
 # print(f"Temperature in Kelvin: {k}")
 
-# print("------ex7------")
+print("------ex7------")
 
 # print("enter your first number: ")
 # first=int(input())

@@ -8,8 +8,9 @@
 #         print("be happy")
 
 
-#continue statement
-for letter in 'Python':
-    if letter=='h':
-        continue
-    print('Current Letter:-',letter)
+# continue statement
+# for letter in 'Python':
+#     if letter=='h':
+#         continue
+#     print('Current Letter:-',letter)
+#########################
