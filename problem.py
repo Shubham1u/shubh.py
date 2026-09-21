@@ -60,3 +60,13 @@
 #             break
 #     else:
 #         print(prime, "is a prime number")
+
+
+##factorial
+a = int(input("Enter number: "))
+fact = 1
+
+for m in range(a, 0, -1):
+    fact = fact * m
+
+print("Factorial =", fact)
