@@ -79,10 +79,10 @@ print("------ex6------")
 
 print("------ex7------")
 
-# print("enter your first number: ")
-# first=int(input())
-# print("enter your second number: ")
-# second=int(input())
+# first=int(input("enter your first number: "))
+# print(first)
+# second=int(input("enter your second number: "))
+# print(second)
 # if first>second:
 #     print("greater number is ", first)
 # elif first<second:
