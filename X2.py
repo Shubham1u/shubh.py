@@ -39,7 +39,7 @@ print("------ex3------")
 
 print("------ex4------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=300 and marks<=500:
 #     print("1- you got 1st dvision ")
 # if marks>=250 and marks<300:
@@ -54,7 +54,7 @@ print("------ex4------")
 
 print("------ex5------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=300 and marks<=500:
 #     print("1- you got 1st dvision ")
 # if marks>=250 and marks<300:
