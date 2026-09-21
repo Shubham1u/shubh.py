@@ -24,7 +24,7 @@ print("------ex2------")
 
 print("------ex3------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=80:
 #     print("1- you got 1st division ")
 # elif marks>=60:
