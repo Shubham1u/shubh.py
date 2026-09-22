@@ -25,7 +25,7 @@
 
 # print("--------------------------------------------------------------------------------")
 
-# # QUESTION 3
+# # QUESTION 3 fibonacci..........
 
 # n = int(input("enter  numbers :"))
 # a = 0
@@ -37,7 +37,7 @@
 #     b=c
 # print("----------------------------------------------------------------------------------")
     
-# # QUESTION 4 
+# # QUESTION 4 pelindrome
 
 # s = input("enter a string: ")
 # if s == s[: :-1]:
@@ -47,7 +47,7 @@
 #     print("not pelindrome")
     
 
-# # print("QUESTION 5..................................................")
+# # print("prime number..................................................")
 
 
 # prime = int(input("enter a number to check if it's prime : "))
@@ -60,3 +60,13 @@
 #             break
 #     else:
 #         print(prime, "is a prime number")
+
+
+#factorial
+a = int(input("Enter number: "))
+fact = 1
+
+for m in range(a, 0, -1):
+    fact = fact * m
+
+print("Factorial =", fact)
