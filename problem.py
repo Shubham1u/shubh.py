@@ -27,14 +27,14 @@
 
 # # QUESTION 3
 
-n = int(input("enter  numbers :"))
-a = 0
-b = 1
-for i in range (n):
-    print(a)
-    c=a+b
-    a=b
-    b=c
+# n = int(input("enter  numbers :"))
+# a = 0
+# b = 1
+# for i in range (n):
+#     print(a)
+#     c=a+b
+#     a=b
+#     b=c
 # print("----------------------------------------------------------------------------------")
     
 # # QUESTION 4 
