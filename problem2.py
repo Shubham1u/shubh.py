@@ -32,12 +32,12 @@ def check_prime():
 print("1.fibonacii")
 print("2.factorial")
 print("3.prime")
-choice=int(input("enter your choice:-"))
-if choice==1:
+X=int(input("enter your choice:-"))
+if X==1:
     print_fibonacci()
-elif choice==2:
+elif X==2:
     calculate_factorial()
-elif choice==3:
+elif X==3:
     check_prime()
 else:
     print("invalid")
