@@ -17,7 +17,7 @@
 
 # print("------------------------------------------------------------------------------")
 
-# #QUESTION 2
+# #QUESTION 2  pyramid
 
 # s = int(input("enter number : "))
 # for i in range(1, s + 1):
@@ -50,16 +50,16 @@
 # # print("prime number..................................................")
 
 
-# prime = int(input("enter a number to check if it's prime : "))
-# if prime<=1:
-#     print(prime,"is not a prime number")
-# elif prime > 1:
-#     for i in range(2, int(prime//2)+1):
-#         if (prime % i) == 0:
-#             print(prime, "is not a prime number")
-#             break
-#     else:
-#         print(prime, "is a prime number")
+prime = int(input("enter a number to check if it's prime : "))
+if prime<=1:
+    print(prime,"is not a prime number")
+elif prime > 1:
+    for i in range(2, int(prime//2)+1):
+        if (prime % i) == 0:
+            print(prime, "is not a prime number")
+            break
+    else:
+        print(prime, "is a prime number")
 
 
 #factorial

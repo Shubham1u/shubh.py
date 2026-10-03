@@ -22,7 +22,7 @@ print('........')
 #     print(i)
 #     i=i+1
 
-print("shubh")
+# print("shubh")
 
 # i=5
 # while i>=1:
@@ -30,14 +30,14 @@ print("shubh")
 #     i=i-1
 
 
-print("shubh3")
+# print("shubh3")
 
 
-for i in range(5, 0, -1):      #for
-    print("*"*i)
+# for i in range(5, 0, -1):      #for
+#     print("*"*i)
 
 
-print("shubh4")
+# print("shubh4")
 
 i=5
 while i>=1:
