@@ -50,6 +50,7 @@
 # # print("prime number..................................................")
 
 
+<<<<<<< HEAD
 prime = int(input("enter a number to check if it's prime : "))
 if prime<=1:
     print(prime,"is not a prime number")
@@ -63,10 +64,29 @@ elif prime > 1:
 
 
 #factorial
+=======
+# prime = int(input("enter a number to check if it's prime : "))
+# if prime<=1:
+#     print(prime,"is not a prime number")
+# elif prime > 1:
+#     for i in range(2, int(prime//2)+1):
+#         if (prime % i) == 0:
+#             print(prime, "is not a prime number")
+#             break
+#     else:
+#         print(prime, "is a prime number")
+
+
+##factorial
+>>>>>>> 7cb9a11b6f415ff6b7ee4ee59fbb95cfa074f9b0
 a = int(input("Enter number: "))
 fact = 1
 
 for m in range(a, 0, -1):
     fact = fact * m
 
+<<<<<<< HEAD
 print("Factorial =", fact)
+=======
+print("Factorial =", fact)
+>>>>>>> 7cb9a11b6f415ff6b7ee4ee59fbb95cfa074f9b0

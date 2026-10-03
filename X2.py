@@ -24,7 +24,7 @@ print("------ex2------")
 
 print("------ex3------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=80:
 #     print("1- you got 1st division ")
 # elif marks>=60:
@@ -39,7 +39,7 @@ print("------ex3------")
 
 print("------ex4------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=300 and marks<=500:
 #     print("1- you got 1st dvision ")
 # if marks>=250 and marks<300:
@@ -54,7 +54,7 @@ print("------ex4------")
 
 print("------ex5------")
 
-# marks=int(input("enter of marks:"))
+# marks=int(input("enter your marks:"))
 # if marks>=300 and marks<=500:
 #     print("1- you got 1st dvision ")
 # if marks>=250 and marks<300:
@@ -79,10 +79,10 @@ print("------ex6------")
 
 print("------ex7------")
 
-# print("enter your first number: ")
-# first=int(input())
-# print("enter your second number: ")
-# second=int(input())
+# first=int(input("enter your first number: "))
+# print(first)
+# second=int(input("enter your second number: "))
+# print(second)
 # if first>second:
 #     print("greater number is ", first)
 # elif first<second:
